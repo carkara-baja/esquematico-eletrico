@@ -1,2 +1,3 @@
-# esquematico-eletrico
-Esquemático elétrico básico para um Baja SAE
+# Esquemático Elétrico
+
+Esquemático elétrico básico para as regras Baja SAE.
